@@ -1,0 +1,26 @@
+{
+  "name": "swiffy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "adm-zip": "^0.4.7",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-plumber": "^1.1.0",
+    "gulp-print": "^2.0.1",
+    "gulp-swiffy": "^1.1.1",
+    "gulp-util": "^3.0.7",
+    "path": "^0.12.7",
+    "run-sequence": "^1.1.5",
+    "through2": "^2.0.1",
+    "tmp": "0.0.28"
+  }
+}
